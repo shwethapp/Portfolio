@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Shwetha Pujari </p>
+logo: assets/img/shwetha.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shwetha-pujari-5b176ba5//">LinkedIn</a> |
+
+  
+  <br>   
+   Data Scientist
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
